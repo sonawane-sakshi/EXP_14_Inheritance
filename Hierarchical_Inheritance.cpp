@@ -44,6 +44,15 @@ int main() {
 
     return 0;
 }
+/*
+**OUTPUT**.
+Brand: H&M - &Denim
+Bootcut: Dark Blue
+Brand: H&M - &Denim
+WideLeg: Light Blue
+Brand: H&M - &Denim
+Skinny: Black
+ */
 
 
 
